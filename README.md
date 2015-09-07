@@ -1,0 +1,1 @@
+Solutions to the Stream Adventure module from [Node School](http://nodeschool.io/)
